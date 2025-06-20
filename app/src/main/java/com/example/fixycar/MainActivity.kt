@@ -37,7 +37,7 @@ import androidx.compose.ui.unit.dp
 import com.example.fixycar.ui.Ingreso
 import com.example.fixycar.ui.theme.FixyCarTheme
 
-//main
+//main principal
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,5 +1,7 @@
 package com.example.fixycar.ui.theme
 
+//temas principales
+
 import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
